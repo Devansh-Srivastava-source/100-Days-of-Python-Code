@@ -5,7 +5,7 @@ This repository contains my daily projects and exercises from Angela Yu’s "100
 I do code in VS-code and try to upload almost daily here on github.
 
 ## Progress
-✅ Completed up to Day 8
+✅ Completed up to Day 10
 
 ## Structure
 Each folder in this repository represents one day and contains:
